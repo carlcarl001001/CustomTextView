@@ -2,7 +2,7 @@
 
 ![image](https://github.com/carlcarl001001/CustomTextView/blob/master/result.png)
 
-step1 Create one custom class extent view.
+step1 Create one custom class extends view.
 
 step2 Create attrs.xml file and write some custom view property.
 
